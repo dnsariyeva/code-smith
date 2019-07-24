@@ -1,21 +1,36 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee
+title: CODE SMITH
+image: /img/office.jpg
+heading: WHAT DO WE DO?
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Чем мы отличаемся от других команд?
+  description: >-
+    - Мы стараемся быть на острие технологий и создавать продукты на мировом
+    уровне. Наша команда создает международные продукты для компаний в Европе и
+    США.
+
+    - Ключевые участники нашей команды творческие и высокопрофессиональные люди,
+    каждый с разносторонним опытом в индустрии от 12 до 18 лет!
+
+    - Одной из основных черт членов нашей команды, наша ключевая черта - мы
+    любим то, что делаем! Каждый наш продукт особенный для нас, нам не интересно
+    делать то, что завтра забудут. Мы создавали решения в разных компаниях, и
+    многие наши решения работают в этих компаниях по сей день.
+
+    - Помимо этого мы предоставляем редкий сервис для наших клиентов -
+    Insourcing. В процессе выполнения проекта, по желанию клиента, мы обучаем
+    кадровый состав компании-клиента, а при отсутствии такового можем подобрать,
+    научить и поставить на поток доработки наших продуктов внутри компании!
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Кумулятивный опыт членов команды важнее просто портфолио компании, поскольку
+  именно он в наибольшей мере определяет конечное качество ИТ решений. Мы умеем
+  создавать нужные решения, но что ещё более важно мы знаем как сделать так,
+  чтобы все эти решения работали в "одной семье" и способствовали быстрому росту
+  Digital среды и культуры компаний-клиентов. Мы долгое время строили подобные
+  системы "изнутри" крупных компаний и приобрели бесценный опыт и понимание как
+  внедрять не отдельное решение, а целую экосистему.
 intro:
   blurbs:
     - image: /img/coffee.png
